@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <title>Crafting Game</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://underscorejs.org/underscore-min.js"></script>
+    <script src="lz-string.min.js"></script>
+  </head>
+  <body>
+    <h1>Crafting Game</h1>
+    <table>
+      <tr id="spaces">
+        <td><select onchange="changeColor('#1');" class="space" id="1"></select></td>
+        <td><select onchange="changeColor('#2');" class="space" id="2"></select></td> 
+        <td><select onchange="changeColor('#3');" class="space" id="3"></select></td>
+      </tr>
+      <tr>
+        <td><select onchange="changeColor('#4');" class="space" id="4"></select></td>
+        <td><select onchange="changeColor('#5');" class="space" id="5"></select></td> 
+        <td><select onchange="changeColor('#6');" class="space" id="6"></select></td>
+      </tr>
+      <tr>
+        <td><select onchange="changeColor('#7');" class="space" id="7"></select></td>
+        <td><select onchange="changeColor('#8');" class="space" id="8"></select></td> 
+        <td><select onchange="changeColor('#9');" class="space" id="9"></select></td>
+      </tr>
+    </table>
+    <button id="craft" class="bigButton" onclick="craft()">Craft!</button>
+    <button id="wait" class="bigButton" onclick="wait()">Wait...</button>
+    <p id="news"></p>
+    <button id="export" onclick="exportSave()">Export save</button>
+    <button id="import" onclick="importSave()">Import save</button><br>
+    <textarea id="savearea"></textarea><br><br>
+    <input id="recipe">
+    <button id="recipeb" onclick="findRecipe();">Find recipe</button><br>
+    <p id="recipet"></p>
+    <h1>FAQ/Help</h1>
+    <h3>What is this game?</h3>
+    <p>This is a game where you make elements, use the dropdowns in the 3x3 grid to place an element, they also list all the elements you have.</p>
+    <h3>I'm stuck on trying to make an element. :(</h3>
+    <p>Elements are either created by making the form of it (for example you make fire by making the shape of fire), or you just need to mix some elements together. Try different variations until you can't think of one. All else fails you can use the "Find recipe" button (read more if you want to know more).</p>
+    <h3>What's the wait button?</h3>
+    <p>Since you can't make time, you can just press the wait button to wait for the element to do something, like waiting for something to grow for instance.</p>
+    <h3>What's the Find recipe button?</h3>
+    <p>If you're wondering if an element exists or if you're stuck making it you can type in the element name and click on find recipe. This will tell you what elements the recipe uses, it doesn't tell you how to form it, the quantity or even if you need to press "Craft!" or "Wait...". The button has a 15 minute cooldown after you use it. It is not considered cheating if you were wondering.</p>
+    <h3>What's the difference between the Wait button and the Patience element?</h3>
+    <p>Patience is just the act of waiting, the wait button is the actual button to do the action of waiting.</p>
+    <h3>What handsome man made this game?</h3>
+    <p><a href="https://jackomix.neocities.org/">Me!</a></p>
+    <script src="index.js"></script>
+  </body>
+</html>

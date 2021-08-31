@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jackomix</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+        :root {
+          --color1: #ffffff; /*25BBB5*/
+          --color2: #000000;
+          --color3: #22203D;
+          --color4: #ffffff; /*D62B12*/
+        }
+        body {
+            background-image: url("space.jpg"); /* From https://www.solarsystemscope.com/textures/ Compressed with TinyPNG*/
+            background-size: 200% 200% cover;
+        }
+        #box:not(.logo-box) {
+            box-shadow: 4px 4px 0 #0000ff, 8px 8px 0 #00ffff, 12px 12px 0 #ff00ff;
+            margin-bottom: 1.25%;
+            border-radius: 2px;
+        }
+        #boxcontainer {
+            display: flex;
+            width: 50%;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            transform: translateX(50%);
+        }
+        #boxcontainer > #box {
+            flex: 0 0 47%;
+            text-align: justify;
+        }
+        a:hover {
+            color: #000000;
+            text-shadow: 1px 1px 0 #ffff00, 2px 2px 0 #ff9900, 3px 3px 0 #ff0000;
+        }
+        #logo {
+            font-family: 'Monoton', cursive;
+            text-shadow: none;
+            letter-spacing: 8px;
+            font-weight: 500;
+            color: #ffffff;
+            font-size: 575%;
+            text-shadow: 16px 16px 0 #ffff00, 32px 32px 0 #ff9900, 48px 48px 0 #ff0000;
+            transform: translate(-32px, -16px);
+        }
+        .logo-box {
+            background-color: transparent !important;
+        }
+        .side-text {
+            mix-blend-mode: difference;
+        }
+    </style>
+  </head>
+  <body>
+    <div id="box" class="logo-box">
+      <h1 id="logo">jackomix</h1>
+    </div>
+    <script src="/js/nav.js"></script>
+    <div id="boxcontainer">
+        <div id="box">
+          <h2><a href="/blog/#2020-01-01">The 51/365 Challenge</a></h2>
+          <p>365 days to finish 51 projects.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/archive/jackomix/yturlwordseeker">yturlwordseeker</a></h2>
+          <p>Searches for words in yt video urls. featured in a video so I updated it since the css was broken.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/crayon">crayon</a></h2>
+          <p>Easy to use comic maker. Kind of like Flipnote Studio in terms of the asthetics of the comics.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/poconym">poconym</a></h2>
+          <p>My own implementation of my own colour naming system.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/projects/piethon">piethon</a></h2>
+          <p>An "esoteric" programming language. Based off of <a href="http://www.dangermouse.net/esoteric/piet.html">Piet</a>, it's basically python code with each character represented by a coloured pixel.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/cozi">cozi</a></h2>
+          <p>A homepage i created a long time ago.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/craftinggame">crafting game</a></h2>
+          <p>An abandoned (don't feel like adding more elements) game which combines Little Alchemy with the Minecraft crafting system. Was really fun to make.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/simplecool">simplecool</a></h2>
+          <p>A not finished at all "alternative" markup language. Use inspect element to get the other files if you wanna see how it works.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/cheesd">cheesd</a></h2>
+          <p>Game I forced myself to make in a hour. Don't know why but I'm proud of it.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/cheesd/too">cheesd too</a></h2>
+          <p>Also proud of this for some reason.</p>
+        </div>
+        <div id="box">
+          <h2><a href="/chicken">chicken</a></h2>
+          <p>Game I made in 10 minutes, not as good as cheesd though.</p>
+        </div>
+        <div id="box">
+          <h2><a href="https://jackomix.itch.io/">itch.io</a></h2>
+          <p>There's some more stuff on my itch.io, go check it out!</p>
+        </div>
+    </div>
+    <h1 class="side-text">projects</h1>
+    <h1 class="side-text">projects</h1>
+    <script src="/js/jquery-3.5.1.min.js"></script>
+    <script src="/js/end.js"></script>
+  </body>
+</html>

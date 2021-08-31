@@ -1,0 +1,767 @@
+game ideas
+
+i'll probably update this every now and never. idk
+
+# of game ideas: 152
+
+2020-05-25
+-lovely interactive fiction game where no matter what you choose you end up encountering
+and being in a relationship with "the one". :)
+
+2020-05-24
+-3d game where you are on stage with random objects, you have to be entertaining for the
+audience.
+
+2020-05-23
+-top down car game where you are in different scenarios and need to do a u-turn doing the
+least amount of damage.
+
+2020-05-22
+-game where you play against another player. you tap a drum to a song, then after 2 bars
+you then hear each others beats. the goal is to me the most on tempo, you can try to
+purposely go too early to try to mess up your opponent, but don't do it too much or
+it can mess up your accuracy, or even mess you up in the process.
+
+2020-05-21
+-game where you run away from your shadow that follows you. casting light will make
+shadows that follow you as well.
+
+2020-05-20
+-web game that displays a counter. the goal is for the counter to go to a million. if you
+click add, it will add for everyone who is or will view the site, and the same if you
+click subtract (but subtract instead of add). if the counter goes to negative a million,
+then you lose. it'd be interesting to see who wins, the adders, or the subtracters...
+
+2020-05-19
+-fps game with two teams. each player has a health bar, if you shoot a player, you gain
+a bit of HP. at the end of the game the team with the most hp on all members total wins.
+maybe you could have rounds? maybe buy stuff? i'm not sure. (also i really like this
+idea so don't steal it please lol)
+
+2020-05-18
+-might've said this game idea before but juggling simulator with your one mouse cursor.
+
+2020-05-17
+-game where you are given the choice to put money over someone and betray them. later it
+goes into a detailed story of what happened since then and how they were hurt. the player
+would feel really bad. this game could be a problem with spoilers though.
+
+2020-05-16
+-game where you create tools from scratch, collecting the supplies to do so. you can
+create tools to help you in the multiple processes.
+
+2020-05-15
+-game where you are a reverse firefighter who tries to put houses upon flames, the same
+way you extinguish them. this would be a satisfying game with cool destruction tech
+stuff.
+
+2020-05-14
+-=you know how you can draw on the screen with a window in windows xp? game where you
+fill whole screen by doing that. make sure no enemies touch a window. maybe there could
+be two windows, and you need to fill have of the screen with the first window and vise
+versa, so you have to fill as you make sure an enemy doesn't touch the other window or
+something. i'm thinking a  spider for the enemy. idk.
+
+2020-05-13
+-airplane simulator but simplified, like how soko loco simplifies transport tycoon.
+
+2020-05-12
+-game where you make jigsaw puzzles by ice skating on the board.
+
+2020-05-11
+-game where you swing from vine to vine but your feet and hands are not connected. you
+can be holding onto the vine but your legs could be spinning 360s. you'd probably have
+to make it so the controls aren't trash but, idk.
+
+2020-05-10
+-party game where each person takes a turn being the host. an object is given to the
+rest, like a car or something, then players are supposed to make the other side of the
+car. the hosts picks the one they like the most. the objects are 3d and low poly. i was
+thinking painting but that could be boring and if you made the 3d easy would probably
+be way more fun.
+
+2020-05-09
+-game where you eat in a eating contest eating foods as fast as you can by controlling 
+the food with the mouse.
+
+2020-05-08
+-rpg game where you trade to obtain items, armour and more.
+
+2020-05-07
+-side scroller platformer in a top down world.
+
+2020-05-06
+-game that helps you memorize things you need help memorizing.
+
+2020-05-05
+-mini chess, 4x4 grid, except every time you try to kill an enemy, you have to win
+another mini chess game. metachess.
+
+2020-05-04
+-side scroller car game in space where you can jump between planet and planet. the
+gravity makes your car go towards the closest planet. idk.
+
+2020-05-03
+-game where you bake a pie by playing as the pie. the game is a platformer. idk.
+
+2020-05-02 (249 tooth for an eye)
+-game where you take people's arms and legs for currency to buy upgrades to tools to 
+take more arms and legs. get it?
+
+2020-05-01
+-game where you pick up boxes by controlling a floating shovel. gameplay is similar
+to octodad in terms of sloppy controls.
+
+2020-04-30
+-game where you cut stuff in halve and try to be as percise as you can.
+
+2020-04-29
+-game where load things onto a truck. but you can do trickshots like throwing, kicking
+and other stuff to the things you load onto the truck. like skateboard games you get
+scores and combos based on your moves. idk.
+
+2020-04-28
+-game where you play as a dog barber. :)
+
+2020-04-27
+-platformer game but has an ai to try to troll the player. there are various actions
+the ai can do. drop the floor, hidden block, drop a block, whatever. as players play
+the ai learns what to do and improves further and further.
+
+2020-04-26
+-game where you are a jackhammer digging into the earth. dodge rocks, and explore 
+caves. caves can contain upgrades, but you can also just dig past them. the goal is to
+dig into the center of the earth and defeat the boss.
+
+2020-04-25
+-fps game (pixelated camera style) where you explore a monocolour (nice blue) world
+and take pictures. though you can go to other worlds (like a red world) to take other
+pictures in. the game will check if your pictures good with real photography criteria.
+(rule of thirds, balance of shiz, etc.) i feel like i've suggested this before but
+whatever. idk.
+
+2020-04-24
+-game where you surf with weird objects. like rubber duckys or pencils. idk.
+
+2020-04-23
+-game where you knock on doors as fast as you can to break them. idk.
+
+2020-04-22
+-game that tells how you to play the platformer even though what they say is
+wrong. from stuff like controls, to stuff like what kills you. bonus points if
+sometimes they tell the truth, and if the tutorial is voice acted, a way to tell
+if they're lying. idk.
+
+2020-04-21
+-game where you explore a randomly generated region and make a map for it. your
+map is compared with percents, so 50% accuracy or 100%, etc. could be a fun,
+nice, relaxing game. idk.
+
+2020-04-20
+-game where you have to draw the number 20 in various coniditions, blindfolded,
+shaking, upside-down, whatever, idk.
+
+2020-04-19
+-game that'd be fun using motion controls where you hit and whack things which
+break into a million pieces. your goal is to break as much as you can in 10
+seconds or something. though i'd perfer something else than "do x as much as
+you can before y seconds.", idk.
+
+2020-04-18
+-game where you break ice by stitching words together to make a sentence. bonus
+points if it's randomized on if you have to make a statement or question. idk.
+
+2020-04-17
+-game (maybe using gpt-2) where you interrogate someone in a chatroom. there
+are achievements like making someone innocent go to jail and vise versa. could
+be fun to kinda "make" wacky scenarios, idk.
+
+2020-04-16 (internet went out before i could update)
+-game where you shoot bullets and make a trail for them to follow.
+
+2020-04-15
+-management game where you create a forest. each tree is a word (it would be
+displayed sideways) the word determines the tree's behavior, so "fast" would
+mean the tree grows rapidly. tree's grow letters that you can use to assemble
+words.
+
+2020-04-14
+-game where you spam a button to affect the player's emotions. the goal is to
+calm down the player as they panic. sometimes you should spam the button, spam
+it lightly, or not touch the button at all. idk.
+
+2020-04-13
+-a pillow fight game. 45-degree angle camera pointing at your character.
+maybe the game is ragdoll and you can hit people with pillows and feathers
+fly everywhere. idk.
+
+2020-04-12
+-factory game where you have to produce factory pieces themselves to use.
+
+2020-04-11
+-game where you play as an easter egg. you have to run away from mulitple
+kids (who are giants compared to you). if a kid finds you and is able to
+grab you, you get eaten.
+
+2020-04-10
+-game where you have no time on your hands, so you need to look around
+your city to look for time to hold with your hands. the game is based on
+a timer, but if you collect the time, your timer increases. idk.
+
+2020-04-09
+-game similar to beyblade but instead of spinning, you wobble. you 
+create your wobbling stone by chisiling out stone. the game is strategy 
+and will require players to think of strategys on how to their your stone.
+
+2020-04-08
+-game where you come up with ideas for different businesses, if they
+are good enough they will do your idea and you get to see what happens.
+either you come up with a crazy good chocolate bar or accidentally
+create a ginormous bomb that creates a huge dent in the earth.
+
+2020-04-07
+-game where you keep growing and you need to damage yourself by
+running into enemies and spikes to shrink yourself. if you grow
+too big you'll die.
+
+2020-04-06
+-game where you have to shake your mouse cursor while avoiding a
+bouncing square across the screen. the more you shake the more points
+you get. if you touch the square you die and game over. bonus points
+if touching the border of the screen kills you too.
+
+2020-04-05
+-game where you are in a kitchen having to cook dishes with food
+from other planets. experiment and figure out how to make good dishes.
+bonus points if the food is randomly generated per save.
+
+2020-04-04
+-game where you assign colours to people by painting them. of course
+no one wants to get painted, so they run away. you have to colour all
+the people so that there is 3 evenly divided groups of black, grey,
+and white.
+
+2020-04-03
+-game where you are sleepwalking and you have to try to force
+yourself to wake up. that's on the left side of the screen, on the
+right side of the screen you can see what you're dreaming about.
+you have to find a way to wake up as fast as you can without
+interacting with the dream. if you die in the dream you die in real
+life and vise versa.
+
+2020-04-02
+-boss rush game where you are the boss.
+
+2020-04-01
+-roguelike on an excel sheet.
+-clicker game entirely based on a research system.
+
+2020-03-31
+-game that picks a random file on your pc and you have to find it. 
+the game gives you clues (mostly about the contents) to help find
+it.
+
+2020-03-30
+-game where you backseat game as someone plays a zelda-like game.
+
+2020-03-29
+-game where you launch and close the game as fast as you can. it
+prints the time into a text file. idk.
+
+2020-03-28
+-game where things are scattered across the screen. you have to
+drag everything into it's right box. the box could sort from
+colour, to the starting letter of it's word, or even to what
+scientific element occurs the most in it. (perhaps you could
+have a inspector to get stats about objects.) idk.
+
+2020-03-27
+-game where you are stuck in your office with a few things. your
+goal is to play the game in one sitting for 3 hours. you have to
+occupy yourself by messing around with the enviorment, without
+making a distraction. the game will check if you're actually
+playing it as well. there should be only things that you can play
+with for a bit but you couldn't have too much fun and do all the
+way through. things can interact with each other though, so the
+game initiates you to be creative. things can be stuff like tape,
+staples, paper and pencil, a computer, and etc.
+
+2020-03-26 (first time i skipped a day :'(( )
+-game where you have to flip a coin 5 tails in a row to win.
+
+2020-03-24
+-game where you play as the vine. monkeys will swing on you, and
+you have to help them get to the other side. idk.
+
+2020-03-23
+-game where you have are in a rush to get ready for different
+scenarios. from work, to a funeral, to a clown party.
+
+2020-03-22
+-vr game where you throw a ball at a wall and catch it. but on
+steroids. multiple balls, walls, angles, shapes, gravity, powerups
+arm length, even four dimensions. the game goes ham. idk.
+
+2020-03-21
+-game where you are a monster trying to hide in a kids bed.
+multiple activites happen in the room, from a kid walking in
+to grab something, to the kid sleeping. you have to scare the
+kid (keep it kid-friendly) without them noticing you.
+
+2020-03-20
+-platformer where you play as a car. the controls are as if it
+was a top down racing game, however gravity fights you. so you
+get these weird controls that should seem kinda cool. idk.
+
+2020-03-19
+-vr game where you play as cartoony bodies. (think of a spoon
+but more circular and with arms and legs.) the goal is to tag
+each other to kill each other. but you can upgrade stats
+like movement speed and arm length. maybe you level up those
+from matches or get powerups or both. you can customize
+your character greatly. although they'll like silly and can
+even look creepy. i had a dream where me and my friends played
+this game and had a lot of laughs. rip me. idk.
+
+2020-03-18
+-game where you change the time on various clocks to match a
+time quickly. you get a point every time you get it right.
+or maybe you get points based on your accuracy. if you don't
+do it in the short timer then you game over. idk.
+
+2020-03-17
+-not really a game idea but... the game board is a keyboard.
+you start on the spacebar and, similar to checkers, pick a key
+to go on in front of you. maybe the game could be checkers or
+chess? idk.
+
+2020-03-16
+-duck hunt but you're on a bumpy rollercoaster spinning
+360 degrees around sitting on vibrating seats as a monkey
+sitting on another monkey sitting on your shoulders holds
+the gun that you shoot. also you're drunk.
+
+2020-03-15
+-game where you try to cut a pie perfectly. the game
+shows you how accurate you are with your cuts
+afterwards.
+
+2020-03-14
+-platformer game with 50 levels, each level is about their
+digit of pi. so the first level, you need to collect 3 coins.
+the second level, you need to kill the one boss, the third
+level, you need to climb a building to the fourth floor. idk.
+
+2020-03-13 (forgot to add the date that day lol)
+-game where a day loops, but each loop the game literally
+corrupts. getting more corrupt each day.
+
+2020-03-12
+-game where there's this ordinary world. but each day
+you become allergic to something and have to live a
+regular work day while avoiding it. going from dogs,
+to peanut butter, people, and to even sunlight, it
+will be a challenge avoiding them.
+
+2020-03-11
+-game where you park cars by telling someone what to do.
+ots an experimental game that uses voice recognition.
+sometomes you have to talk louder cause the driver can't
+hear you. you have to tell them to reverse or to turn a
+certain way. idk. 
+
+2020-03-10
+-game to learn about sound fx. there's a speaker that
+goes to different locations in each level. you have to enable
+the right fx that would fit. for example if a speaker was in
+a church, you would put a reverb effect. though it can get
+weird. if the speaker is in a room where the walls are mirrors,
+you might have to put a chorus effect. idk.
+
+2020-03-09
+-game where two players control one character at a time.
+one player tries to keep the character alive, the other
+tries to kill the character. the twist is that each
+player can't see what the other player is doing. making
+them have to adapt quickly.
+
+2020-03-08
+-game where you make video advertisements for companies.
+
+2020-03-07
+-game where as you explore the world, you can name the colours.
+you have a book full of colours you've named. you can even fuse
+the names to make new colours. the world adopts your name system
+and you explore the world with your own colour names. idk.
+
+2020-03-06
+-game where you chug drinks by tilting the screen.
+
+2020-03-05
+-crazy taxi but airplanes
+
+2020-03-04
+-game where you carefully put swords into your throat. you
+have to be very careful, and cannot hit the walls. idk.
+
+2020-03-03
+-game where you explore a town or city. you might be at the
+right place at the right time, and something will happen.
+you write about this in the newspaper you work on. the goal
+of the game is to document the most events you can. the
+game detects what event you're talking about and what detail.
+
+2020-03-02
+-game where you are placed in a randomly generated world. the
+game's terrain is wavy, but the camera is still stableized on
+the player. so the player could do a loopy loop but it kinda
+seems like a flat plane. you have to find your way out (to the
+next level) by talking to people. as you explore the random
+world, you learn about it. this would be a very relaxing game.
+there could be a story, but i'd like at least a mode that is
+just a world one after another.
+
+2020-03-01
+-game where you look at a neighborhood, you connect the wires
+to the houses. however, stuff like limited electricity and
+limited supply of wires require you to think carefully. it's
+a puzzle game on how to connect each house with a wire
+together.
+
+2020-02-29
+-game where you manage a buttercup (like reese's). you have
+to expierement with different combinations. from shape,
+multiple fillings, different crust levels. it basically goes
+really complex. like universal paperclips but without the idle.
+
+2020-02-28
+-rts game where people have free will, so they struggle with
+you for commands. you have to befriend the people to get them
+to do what you want.
+
+2020-02-27
+-tron but in the format of minecraft hunger games. in the
+center and around the arena are powerups like a gap powerup
+that stops you making a trail for a bit, creating a gap.
+there's speed boosts, radars that check for nearby players
+for 30 seconds and so forth. the game could have 5 up to
+500 players as ai. (i always love games where you can add
+a lot of ai players like armagetron advanced.)
+
+2020-02-26
+-game where you control a radio, you can only turn the
+station knob. the game is a big story, could be about
+a DJ or some random dude asking for help in a
+post-apocalyptic world. idk. 
+
+2020-02-25
+-game where you tie your shoes. you move the left string,
+which mirrors on the right (but flipped vertically). at
+first you can tie your shoes normally but then there are
+obstacles like spikes that get in your way. there could
+also be stuff to manipulate the laces, providing more
+methods and obstacles. idk. 
+
+2020-02-24
+-game where the player makes up a random gesture, which
+generates an action based on that gesture. like if the player
+swipes up, the player would jump. if the player does a zig-zag
+then something will happen. the actions from the gesture are
+not pre-programmed, they are generated. idk.
+
+2020-02-23 (ayy)
+-platformer game where you can only move when you close your
+eyes, making the screen go black. you are still when your
+eyes are open.
+
+2020-02-22
+-game where you are given random pictures. the pictures are
+weird creatures you've never seen before. you have to
+classify them as A or B (there'll be random names). when you
+guess, you will be told if you are right. you have to figure
+out what creatures are which. the game gets harder and harder
+adding more options, breeds to creatures, transformations to
+the image and so on.
+
+2020-02-21
+-game where you spam the space. you have to get to exactly
+party 100 in the shortest time possible. when you think you 
+got 100 then press enter or something. if you didn't get
+100 then you lose. so you have to spam the button exactly
+100 times, and then submit your number as fast as you can.
+idk.
+^edit 2020-02-22: you can make the game more difficult by
+not allowing the player to see how many times they've
+clicked.
+
+2020-02-20
+-game where it presents a pattern with shapes. you have
+to get the pattern right and move to the next one. you have
+to do these fast, cause there's a timer. if the timer runs
+out or you get the pattern wrong, you lose. (stuff like,
+"it goes square then circle then repeat") idk.
+
+2020-02-19
+-game where you switch bodies with an alien from another
+world. you have to get used to their school system, jobs,
+social norms and etc. thinking visual novel. could also be
+some cool message about our currenty society. idk.
+
+2020-02-18
+-you know that gameshow where you dl a pose to get through
+the hole in a wall coming towards you? it's like that but
+you use the mouse to drag each limb, so the forearm, the
+upperleg, wrists, etc.
+
+2020-02-17
+-game where you explore a city picking up litter and
+putting it in a recycle bin. the items can be recycled into
+tools to pick up litter faster.
+
+2020-02-16
+-side scroller game where you play as a guy outside. the
+sky is white. you have a gun that can shoot the sky to add
+blue. use the mouse to aim. enemies will try to stop you.
+
+2020-02-15
+-3d 3rd person game where you walk in a city. you can cough
+on people, making them sick and make them controllable as
+well. the goal of the game is to get the entire city
+populated. kinda like katamari.
+
+2020-02-14
+-game where two players are on a spinning converyor belt.
+each player basically pulls each other to punch. so instead
+of your first going to your opponent, you're making your
+opponent go to your fist. idk.
+
+2020-02-13
+-game where you are the guest on a talk show. it's a cyoa
+style of game. there's different endings, from you bombiing
+the interview, to you becoming the host. idk.
+
+2020-02-12
+-game like tron but you move your mouse. as you move your
+mouse, it makes a trail. you have eat food (like snake)
+without crossing your trail. 
+
+2020-02-11
+-top down game where you survive in a procedural-generated
+world. items are pushed like blocks in sokoban. push an axe
+into a tree to cut it down. create entire rooms full with
+items. there was a switch game i think was about sorting
+a warehouse with this similar concept, (i came up with the
+idea before i saw the game tho) the art style looks cool.
+so maybe something like that? (not roguelike style though,
+have more colour and stuff.)
+
+2020-02-10
+-game where you have to do impressions of voices/characters.
+bot or ai will detect how close you are to the real voice and
+give you a score/rating. maybe do the mean or do like how
+cubers do it and remove best and worst score and then do the
+mean? idk.
+
+2020-02-09
+-game like papers please where you do taxes for aliens. you
+go to different planets which have different tax systems.
+of course, like papers please there could be a story about
+tax evasion. (yoshi no!)
+
+2020-02-08
+-platformer where you can only move horizontally if you jump.
+this is like playing a mario game but always crouching.
+-game where you have a gun, the gun is alive, and also gets
+angry. you have to make it angry for it to let out all the
+rage and shoot. not sure how you can make it angry though.
+-maybe 3d, fps or point and click game where you are in
+different scenarios. you are really tired and you want to go
+to bed. you have to go to bed as fast as you can, while not
+doing hard tasks that make you sleep. so maybe go from work
+to your bed, having to decide if you should do something or
+a different thing and which will not make you more tired,
+as you try to go as fast as possible.
+
+2020-02-07
+-game where you aim the sun towards the moon to make the light
+bounce onto the earth. maybe later you have to move the moon
+and sun, as well as their rotation. maybe they have a shield
+which covers up half of it or something.
+(sorry for the lack of game ideas each day btw, i'll try to
+get some more game ideas tommorow or something.)
+
+2020-02-06
+-game where there are numerous anonymous groups, the only lead
+is their mask. you have to find these groups in a city.
+
+2020-02-05
+-game where you are work for customer service for a technology
+company. you get a call, pick up, and start helping the person.
+when suddenly, another person calls, you talk to both at the
+same time, and then another person calls. see where i'm going
+with this? help mulitple people on the phone at once.
+-game where you have to skip rope yourself. there's three
+characters, the edges holding the rope. click and drag on them
+spinning in circles for them to turn their arm. then drag the
+middle guy up to make him jump. so you have to make the two
+edge guys spin the rope and jump over it. if the rope hits you
+or you're too slow then you lose.
+-anonimity (for tommorow)
+
+2020-02-04
+-this is gonna be a confusing one. 3d game where you play inside 
+of a sphere. your goal is to hit the ball so it stays above the 
+ground, like in volleyball. when you hit the ball into the air,
+the sphere kinda goes inside out and shows the opponent. this is
+probably a idea you would need to flesh out but it seems cool.
+-adventurer mode from dwarf fortress. except the history has
+three stages, historic, present and future. your character can do
+whatever they want in the world. and if they are able to use a
+time machine, go to one of the three time periods and explore.
+
+2020-02-03
+-game where you shoot cans by throwing cans that you have knocked
+down. basically shooting enemies with enemies. as different cans
+attack you in different ways, they're the same as weapons for
+you to use.
+
+2020-02-02
+-guitar simulator for keyboard where you use the letters part (with
+qwerty or whatever) for the strumming and the numpad for the chords.
+though you could probably swap the two. maybe play songs by doing
+the right chords? idk.
+-game where you play as a key on a rgb keyboard. press a button to
+change your hue. you have to keep up with the different patterns
+the other rgb lights do.
+-game where you work together with a ai. the ai plays as the person
+who does the platforming, and you do the level design. the ai isn't
+the greatest, so you have to help it sometimes. though you could
+flip it and have the ai be really good, giving the challenge of
+having to defeat the ai. of course, making it so it's possible to
+complete the level at all.
+
+2020-02-01
+-(probably 3d) game where you design a ninja star. ninja stars will have 
+multiple stats that the shape of the star will affect. maybe you can make 
+multiple ninja stars, collect new metals, collect new tools and discover 
+new throwiing techniques.
+-platformer game where things move to the beat. background music. maybe
+you can mess around with the music? add effects? idk
+-throw/put stuff in a black hole to close it. (no gameplay idea sorry)
+
+2020-01-31
+-fast-paced point-and-click game where it generates a random world. you
+are a pizza delivery man and you have 2 minutes to deliver as many pizzas
+as you can.
+^edit 2020-02-02: would probably be better as a 3d game.
+-you know those bags where the bag itself is attached with a zipper?
+(https://www.youtube.com/watch?v=8GMpVX__0QQ) well the goal of the game
+is to assemble/zip things up like that. kinda weird to explain, but
+imagine zipping two long fabric things together, which makes a piece to
+zip together with another thing and soon you get a dog. idk
+-game where you have to make a car by buying parts (parts are randomly
+picked, you don't see all the parts). but the catch is you have 21
+dollars. maybe have a ragdoll character when the car drives. like that
+game Turbo Dismount.
+
+2020-01-30
+-2d side scroller where you play as a tall creature. the creature has legs
+on its head. it walks by flipping. think of it like someone doing a
+handstand, and then going back to the feet. that's how the creature walks.
+maybe the game could be a cool puzzle platformer? not sure.
+-game where people ask you for advice. they'll say a problem they have and
+you give them an answer. as you play the game, you meet more and more
+people. from random strangers to leaders of countries. and as you give
+advice, you can see how your advice affected people and the world. since
+this would be a word heavy game maybe use ai like gpt-2 or something.
+-game where you draw graphics which makes levels. at the start of the game
+you need to draw a pencil to start drawing (idk). then you draw the ground
+tiles, the player, and as you draw all these gameplay graphics the game
+will generate levels based on your graphics. your run's graphics will be
+made all by you, with the levels made indirectly by you.
+
+2020-01-29
+-do calculations on a calculator on your jump ad as fast as you can. 
+with timer.
+-3d game where you assemble furniture without screws, you have to 
+balance it.
+-fps where you shoot plugs into sockets instead of shooting bullets. you
+have to make sure your shooting into the right socket, so canadians or
+european. but there's also universal.
+
+2020-01-28
+-relaxing game where each run generates random new elements, with random
+reactions. your goal is to label and document elements and reactions.
+perferably not just checking boxes of what the reaction does, more like
+you actually have to write/type it down. perhaps a system can detect if
+you're describing the reactions and if you do describe them correctly.
+-program that remaps your keyboard letters to different buttons everyday.
+making it a game to use your computer for the day, having to figure out
+what button is what letter. there could be a leaderboard of a streak of
+how long they've been playing the game, each day figuring out what keys
+are what.
+-game (probably on a site) that gives you points whenever you connect
+to a new wifi network. basically a boring pokemon go but connecting to
+wifi instead of catching cool and cute monsters.
+
+2020-01-27
+-remember facade? that game where you can say whatever you want during
+a couple going through issues? remake that game but use gpt-2. basically 
+a game where you talk and have conversation using gpt-2.
+-game where the objective is to make a virus for a fake operating
+system. the game has (or uses) a programming language. mess with the OS
+and look for vulnerabilities.
+-any basic game (not the focus of the idea) that has an api to allow
+making custom achievements. people can post achievements online, and
+soon, the game becomes the game with the most achievements ever.
+
+2020-01-26
+-top down car game where you have to hit your opponents back of the car
+-platformer game where you start at the bottom, lava rises and you have
+to climb up the perlin-noise-generated levels until you die.
+-3d game where you control a cube by controlling it's rotation/torque.
+-2d platformer game where the character's hoodie string can extend. the
+string extends towards your mouse cursor. so if you move your cursor
+around a circle, the string will wrap around the circle.
+-shootemup game where your bullets bounce up and down. so if you shoot,
+the bullet goes to the top of the screen, bounces down, hits the bottom
+of the screen and bounces up and so forth. so you have to shoot but also
+dodge your own bullets.
+
+2020-01-25
+-real time board game. have timer that ticks every second.
+players will make moves to the timer, of course allowing the
+option to wait.
+-platformer or fps game where you can build up downward velocity.
+this is like if you were programming gravity but never resetted it
+so you keep just building velocity. basically a winded up ground 
+pound.
+-based off of that driver game and clicked playing a pico-8 game
+"only one enemy", platformer game where you can switch souls to
+another entity. basically switching the camera and controls to
+any entity.
+
+2020-01-24
+-platformer game where you're like the blue shell powerup
+in mario (not mario kart) except you're always a shell.
+-topdown (probably multiplayer) game where you have a sword
+use the mouse to change the angle your player is facing. hit
+the backside of the player with the sword.
+-1d (line back and forth) multiplayer game where you can go left
+and right, you can switch from rock paper or scissors. goal is to
+touch the other player with the winning move. either controls are
+keyboard or mouse but mouse can go too fast.
+
+2020-01-23
+-top down game where you shoot enemys with blue bullets. 
+bullets bounce from enemys and switch to red which damage you. 
+so you have to shoot enemys but dodge your own bullets as well.
+-top down shooting game where you can curb the bullet.
+-spin around and use jet to get around in no gravity
+^edit 2020-01-28: dunno how this is a game idea lol
+-guy goes back and forth and goes up while dodging holes. like 
+icy tower.
+^edit 2020-01-28: basically imagine icy tower, but you always
+move back and forth. the goal is to jump onto the higher platforms
+while dodging holes.
+

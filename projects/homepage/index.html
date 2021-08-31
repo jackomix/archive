@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="shortcut icon" href="http://www.example.com/my_empty_resource" />
+    <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
+    <style>
+    body {
+      background-color: #251A3F;
+      color: white;
+      font-family: Abel;
+    }
+
+h1 {
+  padding: 0px;
+  margin: 10px;
+}
+
+#links {
+    /*margin-right: 1500px;*/
+    width: 700px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#other {
+    /*margin-left: 1500px;*/
+    width: 370px;
+    float: right;
+    position:absolute;
+    top:0;
+    right:0;
+    text-align: right;
+    margin-right: 39px;
+}
+
+button {
+  overflow: hidden;
+}
+
+div {
+    background-color: #7F549B;
+    height: 560px;
+    padding: 25px;
+    margin: 25px;
+}
+  
+.btn img {
+  position:absolute;
+  top: 50%;
+  left:50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 70px;
+  image-rendering: crisp-edges;
+  transform: translate(-50%,-50%) translateY(-200px);
+filter: drop-shadow(0 200px #fff);
+overflow: hidden;
+}
+    /*Original button from https://codepen.io/sebj54/pen/oxluI*/
+    .btn {
+    float:left;
+  position: relative;
+
+  display:inline-block;
+  margin: 11px;
+  padding: 0
+
+  
+  overflow: hidden;
+
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  
+  background-color: #FF21A1;
+  color: #fff;
+  
+  transition: background-color .3s;
+  
+  display:block;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.btn:hover, .btn:focus {
+  background-color: #fff;
+}
+
+.btn > * {
+  position: relative;
+}
+
+.btn span {
+  display: block;
+  padding: 12px 24px;
+}
+
+.btn:before {
+  content: "";
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  display: block;
+  width: 0;
+  padding-top: 0;
+    
+  overflow: hidden;
+    
+  border-radius: 100%;
+  
+  background-color: rgba(236, 240, 241, .3);
+  
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.btn:active:before {
+  width: 120%;
+  padding-top: 120%;
+  
+  transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+.btn:hover img, .btn:focus img {
+  filter: drop-shadow(0 200px #FF21A1);
+)
+    </style>
+  </head>
+  <body>
+  <div id="links">
+  <center>
+    <button title="Neocities" onclick="location.href='https://neocities.org';" class="btn pink" type="button"><span><img src="https://files.catbox.moe/1ccrzo.png"></span></button>
+    <button title="Reddit" onclick="location.href='https://reddit.com';" class="btn pink" type="button"><span><img src="https://files.catbox.moe/ssvzx7.svg"></span></button>
+    <button title="GBAtemp" onclick="location.href='https://gbatemp.net';" class="btn pink" type="button"><span><img src="https://files.catbox.moe/6x4vpv.png"></span></button>
+    <button title="Google" onclick="location.href='https://www.google.ca';" class="btn pink" type="button"><span><img src="https://files.catbox.moe/4y7wm7.png"></span></button>
+    <button title="Catbox" onclick="location.href='https://catbox.moe';" class="btn pink" type="button"><span><img src="https://files.catbox.moe/x0rh10.png"></span></button>
+  </center>
+  </div>
+  <div id="other">
+  <h1>Homepage</h1>
+  <p>Welcome to the homepage, this is the homepage I made myself (besides the buttons which are credited in the source) and have as my homepage. This section is just for other links and stuff.</p>
+
+  <iframe width="314" height="321" scrolling="no" src="https://gifypet.neocities.org/pet/pet.html?name=Blobi&dob=1507862296&gender=m&element=Water&pet=https%3A%2F%2Forig00.deviantart.net%2Fbc3d%2Ff%2F2017%2F107%2F8%2Fc%2Fslime_by_photondragon13-db68hva.png&map=town.gif&background=https%3A%2F%2Ffiles.catbox.moe%2F3vjb1q.gif&tablecolor=white&textcolor=white" frameborder="0"></iframe>
+  </div>
+  </body>
+</html>

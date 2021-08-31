@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!--doesnotexist-->
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>experiment</title>
+  </head>
+  <body>
+    <details>
+    <summary>log of making</summary>
+      <p>
+      thinking of having a way to list links of files without editing a html file.<br>
+      have every text file be a number, have page check if each page exists (idk if that's possible) and link<br>
+      to it.<br>
+      <br>
+      okay making progress<br>
+      https://stackoverflow.com/questions/5115141/check-if-a-file-exists-locally-using-javascript-only<br>
+      someone had a cool idea, check if a file doesn't exist but trying to run it as a js script.<br>
+      <br>
+      will copy and past- i mean implement it now<br>
+      <br>
+      that didn't work but i have a better idea, if you use the fetch function on something that doesn't exist
+      it will return the file the script is on. so i can have some text that tells the file it doesn't exist.
+      so if it detects "nope" then just say it doesn't exist.<br>
+      <br>
+      i wanna see how the names will work. how long will it take to check the alphabet with 3 chars? 4? 10?<br>
+      <br>
+      i'm dumb it returned the 404 page. though i get a http get error thingy. i'll work on this tommorow.<br>
+      <br>
+      okay i'm here today. i found a way to check if a file exists or not. now i'll make a loop.<br>
+      <br>
+      it's not working but i have an idea<br>
+      <br>
+      okay, so i just googled how to check a file and found a solution lol<br>
+      <br>
+      i have an idea, show the first line of the text file as the link thingy<br>
+      <br>
+      okay we're real close, i'm gonna work on this later today.<br>
+      <br>
+      okay i think i did it. only downside is you have to edit the number of files it will check exists. right now it's at 50, so it'll take like 2-10 seconds. however i just thought of an idea. start from 0, if it exists then check for 1, keep going until it's empty. les go i'm smart bois.<br>
+      <br>
+      okay i think we got async issues or something, will work on this latet today.<br>
+      <br>
+      okay simple fix. i think we're done bois. i'm gonna probably fill this bin folder with random text files, woohoo.
+      </p>
+    </details>
+    
+    <h1>bin of text files</h1>
+    <p id="info">this site is currently checking for files in the directory, please wait. :)</p>
+    <p id="links"></p>
+    
+    <script>
+    window.onload = function(){
+      var title = "";
+      var numcheck = 1;
+      function UrlExists(url)
+      {
+          var http = new XMLHttpRequest();
+          http.open('HEAD', url+"#"+Math.random(), false);
+          http.send();
+          return http.status!=404;
+      }
+      function checkFor(n){
+        geturl = "txt/" + n + ".txt";
+        document.getElementById("info").innerHTML = "gonna start checking " + geturl + ". :o";
+        if(UrlExists(geturl)){
+          document.getElementById("info").innerHTML = "it does exist! setting link label to first line of text file.";
+          var titleofthing = "";
+          fetch(geturl, {cache: "reload"})
+          .then((response) => response.text())
+          .then((data) => {
+            titleofthing = data.split('\n')[0]
+            document.getElementById("links").innerHTML += ('<br><a href="'+geturl+'">'+titleofthing+'</a>');
+            document.getElementById("info").innerHTML = "okay, done that. now to check for the next file. :)";
+            numcheck = numcheck + 1;
+            checkFor(numcheck);
+          })
+        } else {
+          document.getElementById("info").innerHTML = "all done :)";
+        }
+      }
+      checkFor(numcheck);
+    }
+    </script>
+  </body>
+</html>

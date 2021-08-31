@@ -1,0 +1,39 @@
+body {
+  background-color: #616161;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  text-shadow: 0 0 20px #fff;
+  font-size: 150%;
+}
+
+input {
+  width: 90vw;
+  font-size: 100%;
+}
+
+#text {
+  color: #ff0000;
+  font-family: "Courier New", Courier, monospace;
+  text-shadow: 0 0 5px #000;
+  width: 100vw;
+  height: 100vh;
+  word-wrap: break-word;
+}
+
+div {
+  position: absolute;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+}
+
+.marquee {
+  display: inline-block;
+  animation: marquee 60s linear infinite;
+}
+
+@keyframes marquee {
+  0%   { -webkit-transform: translateY(100%); }
+  100% { -webkit-transform: translateY(-100%); }
+} 

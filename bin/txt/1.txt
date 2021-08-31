@@ -1,0 +1,11 @@
+"dynamic" file listing
+
+after like a day of messing around it's done.
+first, check if 1.txt exists
+if it does, woo, make a link with the link text
+being the first line.
+we know that 1.txt exists, so how about 2.txt?
+oh, it doesn't? aww.
+but the job here is done, the files are shown.
+and you don't have to edit the index.html file
+at all. it's still cool.

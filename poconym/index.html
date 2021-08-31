@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>poconym</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1>poconym</h1>
+    <p id="stats">choose<br>a<br>colour</p>
+    <div id="colorPreview" style="height: 100px;"></div>
+    <button onclick="update()">update</button>
+    <br>
+    type in a six letter word: <input id="poconymName">
+    <br>or<br>
+    click the box to choose a color: <input id="colorpicker" class="jscolor {required:false}" value="">
+    <br>
+    <h1>what</h1>
+    <p>poconym is a color naming system. the system generates sounds by combining consonants and vowels. ["ab", "ba", "ac", "ca", ... "uy", "yu", "uz", "zu"]. every colour on your screen is rgb. this means it has a certain amount of red, green and blue. when you pick a colour and check the name of it, it gets the amount of each channel (red, green and blue) and picks it's closest sound. for example, 255 is the highest colour, so it's closest sound would be the highest sound in the list, "zu". this repeats 3 times for each channel, creating a name for the colour.</p>
+    <script src="jscolor.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

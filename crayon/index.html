@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>crayon</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+    <a id="link"></a>
+    <canvas id="buffer" style="display: none;"></canvas>
+  </head>
+  <body>
+    <div class="center">
+      <h1>crayon</h1>
+      <p>comic maker where you make a comic 1 panel at a time.</p>
+      <p id="info">:)</p>
+    </div>
+    
+    <div class="center">
+      <div id="panels"></div>
+      
+      <input id="sizeSlider" onchange="updateInfo()" type="range" min="1" max="50" value="5"> | 
+      <select id="brushColor" autocomplete="off">
+        <option value="#000000" selected>black</option>
+        <option value="#ffffff">white</option>
+        <option value="#FF2600">red</option>
+        <option value="#FF6F00">orange</option>
+        <option value="#FFFB00">yellow</option>
+        <option value="#2FFF00">green</option>
+        <option value="#00FFD0">cyan</option>
+        <option value="#002FFF">blue</option>
+        <option value="#7B00FF">purple</option>
+        <option value="#FF00D9">pink</option>
+        <option value="#803E00">brown</option>
+        <option value="#9E9E9E">grey</option>
+        <option value="#575757">dark grey</option>
+      </select> | 
+      <button id="clear" onclick="if(confirm('are you sure you want to clear this panel?')) clearCanvas()">clear</button> | 
+      <button id="undo" onclick="undoCanvas()">undo</button>
+      <button id="redo" onclick="redoCanvas()">redo</button> | 
+      <button id="previous" onclick="previousPanel()">previous</button>
+      <button id="next" onclick="nextPanel()">next</button> | <br>
+      <button id="copy" onclick="selectPanel()">select</button>
+      <button id="paste" onclick="pastePanel()">paste</button> |
+      <button id="delete" onclick="if(confirm('are you sure you want to delete this panel?')) deletePanel()">delete</button> | 
+      <button id="save" onclick="saveComic()">save</button>
+      
+    </div>
+    
+    <br><br>
+    
+    <div class="center">
+      <p>credit: <a href="https://github.com/magicien/undo-canvas">undo-canvas</a></p>
+    </div>
+    
+    <script src="https://cdn.rawgit.com/magicien/undo-canvas/v0.1.3/undo-canvas.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

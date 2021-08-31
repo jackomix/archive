@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;800&display=swap');
+
+body {
+  font-family: 'Manrope', sans-serif;
+  font-size: 130%;
+}
+
+#main {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: var(--color1);
+  color: var(--color2);
+  height: 100%;
+  width: 85%;
+}
+
+/*
+p, a, h1, h2, h3, ul, il {
+  text-shadow: 0 0.08em rgba(0, 0, 0, 0.2), 0 0.08em currentColor;
+}
+*/
+
+#main a {
+  color: var(--color2);
+}
+#main a:hover {
+  color: var(--color1);
+  background-color: var(--color2);
+}
+#sidebar a {
+  color: var(--color1);
+}
+#sidebar a:hover {
+  color: var(--color2);
+  background-color: var(--color1);
+}
+#main hr {
+  border-top: 2px solid var(--color2);
+}
+#sidebar hr {
+  border-top: 2px solid var(--color1);
+}
+hr {
+  display: block; 
+  height: 1px;
+  border: 0; 
+  border-top: 1px solid #ccc;
+  margin: 1em 0; padding: 0;
+}
+#main table, #main td, #main th {
+  border: 2px solid var(--color2);
+}
+#sidebar table, #sidebar td, #sidebar th {
+  border: 2px solid var(--color1);
+}
+table {
+  table-layout: auto;
+  border-collapse: collapse;
+  width: 100%;
+}
+.tablefit {
+  width: 20%;
+}
+td {
+  padding: 1%;
+}
+
+.singleinput {
+  background-color: var(--color1);
+  border: 2px solid var(--color2);
+  color: var(--color2);
+  font-family: 'Manrope', sans-serif;
+  font-size: 100%;
+  padding: 1%;
+}
+.singleinput::placeholder {
+  color: var(--color2);
+}
+
+#logo {
+  font-weight: 900;
+  font-size: 500%;
+  margin: 0;
+  text-shadow:
+  -1px -1px 0 var(--color1),
+  1px  -1px 0 var(--color1),
+  -1px 1px  0 var(--color1),
+  1px  1px  0 var(--color1),
+  4px  4px  0 var(--color2),
+  5px  5px  0 var(--color2),
+  6px  6px  0 var(--color2),
+  7px  7px  0 var(--color2),
+  8px  8px  0 var(--color2),
+  9px  9px  0 var(--color2);
+  /*color: #faca18;
+  background: #ed3790;*/
+}
+
+#main h1:not(#logo) {
+  text-decoration: underline;
+  text-decoration-thickness: 10%;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+#date {
+  text-align: center;
+  font-weight: bolder;
+}
+
+#sidebar {
+  position: fixed;
+  right: 0;
+  top: 0;
+  background-color: var(--color2);
+  color: var(--color1);
+  width: 15%;
+  height: 100%;
+}
+/*#sidebar a:nth-child(4n) {
+  float: right;
+}*/
+
+#main, #sidebar {
+  padding: 2%;
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  /*padding-top: 1%;
+  padding-bottom: 1%;*/
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

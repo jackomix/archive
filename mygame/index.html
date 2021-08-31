@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+  <div class="tab">
+    <button id="default" class="tablinks" onclick="openTab(event, 'forest')">forest</button>
+    <button class="tablinks" onclick="openTab(event, 'beach')">beach</button>
+  </div>
+  <div id="things">
+    <div id="forest" class="tabcontent">a</div>
+    <div id="beach" class="tabcontent">b</div>
+  </div>
+  <div id="stuff">
+    current: <select id="current"></select>
+  </div>
+    <script>
+      function addOption(selectid, optiontext, optionvalue) {
+        var sel = document.getElementById(selectid);
+        var opt = document.createElement('option');
+        opt.appendChild(document.createTextNode(optiontext));
+        opt.value = optionvalue;
+        sel.appendChild(opt); 
+      }
+      
+      function openTab(evt, tabName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+      
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+      
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+      
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+      }
+      document.getElementById("default").click();
+    </script>
+  </body>
+</html>

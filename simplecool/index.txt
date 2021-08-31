@@ -1,0 +1,16 @@
+simplecool
+
+hyperbig: simplecool
+superbig: what is simplecool?
+text: simplecool is a simple way to make sites. it simply converts a simplecool format to html for your browser to run.
+superbig: why should i use it?
+text: cause it's simple, cool, and i also put effort into it.
+superbig: what are the commands?
+text: you have "hyperbig", which makes the giant simplecool text
+text: you have "superbig", which makes the questions you keep asking
+text: you have "text", which makes the text you're reading
+text: you have "image", which can display an image
+text: you have "link", which can like to anything
+link: made by jackomix | https://jackomix.neocities.org
+superbig: what are the limitations?
+text: you can't have a link in your text, though i might find a way to do that, also it only has a handful of commands. and is only css friendly to people who already know html.
