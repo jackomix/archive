@@ -1,0 +1,30 @@
+    body {
+    background-color: #380095;
+  font-family: 'Calibri Light', 'Segoe', 'Tahoma', 'Geneva', sans-serif;
+}
+
+div {
+    background-color: rgba(0,0,0,0.1);
+    color: #FFFFFF;
+    width: 80%;
+    margin: auto
+    border: 0.1px solid rgba(0,0,0,0.1);
+    border-radius: 7px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+a:active {
+    color: lightgray;
+}
+

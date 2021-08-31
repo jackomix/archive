@@ -1,0 +1,3 @@
+2019-07-25 - when using NXMineNS (google it) if you get that DNS resolution thingy error. restart your internet. i realized this when my pc internet was poopy, and when i reconnected said there were two ip's colliding. i realized switch had to decide between two ip's. so i just restarted my internet and badabing.
+
+tl;dr: if you get a DNS error when using NXMineNS, restart your internet.

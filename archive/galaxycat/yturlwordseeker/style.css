@@ -1,0 +1,50 @@
+    body {
+    background-color: #380095;
+  font-family: 'Calibri Light', 'Segoe', 'Tahoma', 'Geneva', sans-serif;
+}
+
+div {
+    background-color: rgba(0,0,0,0.1);
+    color: #FFFFFF;
+    width: 80%;
+    margin: auto
+    border: 0.1px solid rgba(0,0,0,0.1);
+    border-radius: 7px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+a:active {
+    color: lightgray;
+}
+/*
+     FILE ARCHIVED ON 20:45:43 Apr 20, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:56:19 Jul 17, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.178
+  PetaboxLoader3.resolve: 122.943
+  RedisCDXSource: 2.936
+  esindex: 0.015
+  LoadShardBlock: 345.848 (3)
+  PetaboxLoader3.datanode: 367.628 (4)
+  exclusion.robots: 0.189
+  CDXLines.iter: 14.119 (3)
+  captures_list: 366.893
+  load_resource: 207.414
+*/

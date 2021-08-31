@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>jackomix</title>
+    <link href="../home/colors.css" rel="stylesheet" type="text/css" media="all">
+    <style>
+      :root {
+          --color1: #fffded;
+          --color2: #db1f75;
+      }
+    </style>
+    <link href="../home/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="logo">jackomix</h1>
+      <hr>
+      <h1>YouTube URL word seeker</h1>
+      <hr>
+      <h2>Seek for a word!</h2>
+      <input class="singleinput" type="text" placeholder="type here..." id="singleinput" onkeydown="if (event.key === 'Enter') { window.location.href = 'https://www.google.com/search?q=allinurl:' + encodeURIComponent(document.getElementById('singleinput').value) + '+site:youtube.com/watch';}"/>
+      <hr>
+      <h2>about</h2>
+      <p>based off vsauce's <a href="https://www.youtube.com/watch?v=9rIy0xY99a0">what is random</a> video, this tool allows you to easily search for text in a YouTube video's url (which are made up of random characters). this page was featured in CHM Tech's <a href="https://www.youtube.com/watch?v=vbn_6-ljkSc">YouTube easter eggs</a>, which is why this page was updated.<br><br><b>note:</b> google's ai is bad at stuff like this, so you'll get a lot of unrelevant pages. I've tried to look for ways to get past some of them but I haven't been successful. feel free to reach out to me if you find a solution though.</p>
+    </div>
+    <div id="sidebar">
+      <script src="../home/nav.js"></script>
+    </div>
+  </body>
+</html>

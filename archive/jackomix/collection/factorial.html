@@ -1,0 +1,43 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"></head><body><h1><center><font style="FONT-FAMILY:TREBUCHET MS;color:indigo"><u>Factorial Calculator</u></font></center></h1><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><div style="POSITION:ABSOLUTE;TOP:100px;left:250px"><form name="FACTORIAL" action="javascript:doCalculation()"><input name="console" placeholder="Enter a number..." style="opacity: 0.7; height: 35px; font-size: 25px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" id="nom" size="30" onchange="doCalculation()" value="50! = 3.0414093201713376e+64" type="TEXT">&nbsp;&nbsp;&nbsp;<input value="Calculate Factorial" onclick="doCalculation()" style="position:absolute;height:35px;color:olive;background-color:silver;" type="button"><br><br><input value="Reset" onclick="document.getElementById('nom').value=''" style="position:absolute;height:35px;color:RED;background-color:#d5d6d9;" type="button"></form></div>
+
+<script>
+function doCalculation()
+
+{
+
+var a=document.getElementById('nom').value
+
+var i;
+
+var c="1"
+
+if(a>-1)
+{
+for(i=2;i<=a;++i)
+
+c*=i;
+document.getElementById('nom').value=a+"! = "+c
+
+document.FACTORIAL.console.focus()
+
+document.getElementById('nom').style.background="#FFFFFF"
+}
+
+else if(a==isNaN)
+{
+
+
+document.getElementById('nom').style.background="pink"
+
+document.FACTORIAL.console.focus()
+}
+
+};
+
+</script>
+
+<br><title>Factorial Calculator v1.1</title>
+
+<div id="INITIATOR" style="POSITION:ABSOLUTE;TOP:300px;left:25%"><table><tbody><tr><td><img src="https://jackomix.neocities.org/archive/jackomix/collection/factorial_files/vkcicon.png" title="Developer Logo"></td><td><font face="CANDARA" size="3px" color="SILVER">&nbsp;&nbsp;&nbsp;&nbsp;©<a href="http://about.me/vivekchoubey">Vivek Choubey</a> 2014.&nbsp;&nbsp;&nbsp;&nbsp;<br>Made using <a href="https://vkccodebuilder.neocities.org/" title="VKC CodeBuilder">VKC CodeBuilder Simulator</a>.</font></td></tr></tbody></table></div>
+</body></html>
