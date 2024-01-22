@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Syne:wght@800&display=swap');
+
+/* Page */
+
+body {
+  background: #010001;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  
+  overflow: overlay;
+}
+
+/* Text */
+
+h1 {
+  font-family: 'Syne', sans-serif;
+}
+
+h1, p {
+  margin: 0;
+}
+
+
+/* Scrollbar */
+
+.simplebar-scrollbar::before {
+  background-color: red;
+}
+
+
+/* Boxes */
+
+.container {
+  display: flex;
+  flex-flow: wrap; 
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-flow: column;
+  }
+}
+
+.boxoutline {
+  background: var(--outline);
+  
+  padding: 0.6vw;
+  box-sizing: border-box;
+  
+  width: var(--width);
+  height: var(--height);
+  
+  display: flex;
+}
+
+.box {
+  background: var(--box);
+  color: var(--text);
+  
+  padding: 0.6vw;
+  box-sizing: border-box;
+  
+  scrollbar-gutter: stable;
+  
+  overflow: hidden;
+}
+
+.box:hover {
+  overflow-y: scroll;
+}
+
+.box h1 {
+  color: var(--header);
+}
